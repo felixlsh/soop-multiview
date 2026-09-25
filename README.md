@@ -1,9 +1,16 @@
-# SOOP Lens by felix 1.0.7
+# SOOP Lens by felix 1.0.8
 
 여러 SOOP 방송과 채팅을 원하는 비율로 보는 Windows 앱입니다. 최대 9개 방송, 배치 자율, 개별 영상·채팅 조절, 선택 기록과 알림을 제공합니다.
 
-**[다운로드 페이지](https://felixlsh.github.io/soop-multiview/)** · **[1.0.7 릴리스](https://github.com/felixlsh/soop-multiview/releases/tag/v1.0.7)** · **[전체 변경 내역](RELEASE_NOTES.md)**
+**[다운로드 페이지](https://felixlsh.github.io/soop-multiview/)** · **[1.0.8 릴리스](https://github.com/felixlsh/soop-multiview/releases/tag/v1.0.8)** · **[전체 변경 내역](RELEASE_NOTES.md)** · **[상세 사용법](USER_GUIDE.md)**
 
+## 1.0.8 개선 (2026-09-25)
+
+- 영상 더블클릭 전체화면 복구, 균등 분할의 메인 미선택 상태에서도 해당 방송만 자동 최대 1080p 적용
+- 많은 방송을 열었을 때 번호 카드 스크롤바와 LIVE 입장 항목 음영 개선
+- 일반·영상 별풍선 및 도전·대결 미션 한 건 1,000개 이상 알림과 움직이는 glow 강조, 기준값 설정
+- 본문이 없는 후원에 같은 계정의 첫 후속 채팅 연결. 미션 정산 수량과는 별개로 수신 알림 수량을 표시
+- 설치부터 전체 기능·데이터 보관·제한을 설명하는 [상세 사용법](USER_GUIDE.md) 제공
 ## 1.0.7 개선 (2026-09-25)
 
 - 조회 메뉴 바깥 클릭 시 닫힘, LIVE·즐겨찾기 호버 미리보기 복구
