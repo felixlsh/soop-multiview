@@ -1,0 +1,4 @@
+Lens Site Sans is a page-specific subset derived from Pretendard by Kil Hyung-jin.
+Modified 2026-09-26: reduced glyph coverage for the static landing page and renamed the derivative to respect the Reserved Font Name.
+The original copyright and SIL Open Font License 1.1 remain in OFL-Pretendard.txt and the font name table.
+The original PretendardVariable.woff2 remains available unchanged.
