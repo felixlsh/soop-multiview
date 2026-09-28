@@ -1,8 +1,14 @@
-# SOOP Lens by felix 2.1.0
+# SOOP Lens by felix 2.1.1
 
 여러 SOOP 방송과 채팅을 원하는 비율로 보는 Windows 앱입니다. 최대 9개 방송, 배치 자율, 개별 영상·채팅 조절, 선택 기록과 알림을 제공합니다.
 
-**[다운로드 페이지](https://felixlsh.github.io/soop-multiview/)** · **[2.1.0 릴리스](https://github.com/felixlsh/soop-multiview/releases/tag/v2.1.0)** · **[전체 변경 내역](RELEASE_NOTES.md)** · **[상세 사용법](USER_GUIDE.md)**
+**[다운로드 페이지](https://felixlsh.github.io/soop-multiview/)** · **[2.1.1 릴리스](https://github.com/felixlsh/soop-multiview/releases/tag/v2.1.1)** · **[전체 변경 내역](RELEASE_NOTES.md)** · **[상세 사용법](USER_GUIDE.md)**
+
+## 2.1.1 수정 (2026-09-28)
+
+- 리캡의 스트리머 사진을 계정 즐겨찾기와 연결해 순위·버블·타임라인·상세·날짜별 보기에 표시
+- PNG·SVG 리캡 이미지에도 프로필 사진을 포함
+- 같은 닉네임이 중복되거나 연결할 수 없는 항목은 기본 아이콘 유지; 사진 오류가 통계 조회를 막지 않도록 처리
 
 ## 2.1.0 개선 (2026-09-28)
 
