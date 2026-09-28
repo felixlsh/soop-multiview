@@ -1,8 +1,15 @@
-# SOOP Lens by felix 2.1.1
+# SOOP Lens by felix 2.1.2
 
 여러 SOOP 방송과 채팅을 원하는 비율로 보는 Windows 앱입니다. 최대 9개 방송, 배치 자율, 개별 영상·채팅 조절, 선택 기록과 알림을 제공합니다.
 
-**[다운로드 페이지](https://felixlsh.github.io/soop-multiview/)** · **[2.1.1 릴리스](https://github.com/felixlsh/soop-multiview/releases/tag/v2.1.1)** · **[전체 변경 내역](RELEASE_NOTES.md)** · **[상세 사용법](USER_GUIDE.md)**
+**[다운로드 페이지](https://felixlsh.github.io/soop-multiview/)** · **[2.1.2 릴리스](https://github.com/felixlsh/soop-multiview/releases/tag/v2.1.2)** · **[전체 변경 내역](RELEASE_NOTES.md)** · **[상세 사용법](USER_GUIDE.md)**
+
+## 2.1.2 수정 (2026-09-28)
+
+- 버블 원 전체를 프로필 사진으로 채우고 사진 위에 닉네임·시청 시간을 표시
+- 즐겨찾기에 없는 리캡 스트리머도 SOOP 공식 검색의 정확한 닉네임 일치로 사진 연결
+- 프로필 원본 JPG 대체 경로와 PNG·SVG 사진 저장 보완
+- 버블에서 기타를 제외하고 스트리머만 기준으로 크기·비중 계산; 전체 시청 시간은 공식 통계 유지
 
 ## 2.1.1 수정 (2026-09-28)
 
