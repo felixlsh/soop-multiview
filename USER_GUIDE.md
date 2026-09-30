@@ -85,7 +85,7 @@ SOOP Lens는 여러 SOOP 방송의 공식 화면을 한 Windows 창에서 배치
 
 단일 보기 전환은 기존 방송을 배경에 유지한 채 선택한 방송을 실시간으로 확대하고 전환 뒤 나머지를 숨깁니다. 같은 번호를 다시 선택하면 이전 배치로 돌아갑니다. Windows의 동작 줄이기 설정에서는 즉시 전환합니다.
 
-최신 변경 사항과 설치 파일의 SHA-256은 [2.1.1 릴리스](https://github.com/felixlsh/soop-multiview/releases/tag/v2.1.1)를 참고하세요.
+최신 변경 사항과 설치 파일의 SHA-256은 [2.1.2 릴리스](https://github.com/felixlsh/soop-multiview/releases/tag/v2.1.2)를 참고하세요.
 
 
 ## 시청 리캡
