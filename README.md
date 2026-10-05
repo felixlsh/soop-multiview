@@ -1,8 +1,16 @@
-# SOOP Lens by felix 2.3.1
+# SOOP Lens by felix 2.4.0
 
 여러 SOOP 방송과 채팅을 원하는 비율로 보는 Windows 앱입니다. 최대 9개 방송, 배치 자율, 개별 영상·채팅 조절, 선택 기록과 알림을 제공합니다.
 
-**[다운로드 페이지](https://felixlsh.github.io/soop-multiview/)** · **[2.3.1 릴리스](https://github.com/felixlsh/soop-multiview/releases/tag/v2.3.1)** · **[전체 변경 내역](RELEASE_NOTES.md)** · **[상세 사용법](USER_GUIDE.md)**
+**[다운로드 페이지](https://felixlsh.github.io/soop-multiview/)** · **[2.4.0 릴리스](https://github.com/felixlsh/soop-multiview/releases/tag/v2.4.0)** · **[전체 변경 내역](RELEASE_NOTES.md)** · **[상세 사용법](USER_GUIDE.md)**
+
+## 2.4.0 개선 (2026-10-05)
+
+- 앱 시작·실행 중 10분 주기로 새 버전 안내 (자동 설치 아님)
+- 등록한 YouTube 6개 채널 영상 합쳐 보기·새 업로드 알림·받은 영상 보관
+- YouTube 공식 임베드 오류 153 수정, 메뉴·팝업 실제 재생 확인
+- 최초 연결 과거 영상·중복 알림 방지, 채널별 서버 연결 상태와 알림 설정
+- Google 허브의 일시적 오류로 일부 채널은 연결 재시도 중이며, 연결 상태를 메뉴에서 확인할 수 있습니다.
 
 ## 2.3.1 개선 (2026-10-05)
 
