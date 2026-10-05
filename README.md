@@ -1,8 +1,17 @@
-# SOOP Lens by felix 2.3.0
+# SOOP Lens by felix 2.3.1
 
 여러 SOOP 방송과 채팅을 원하는 비율로 보는 Windows 앱입니다. 최대 9개 방송, 배치 자율, 개별 영상·채팅 조절, 선택 기록과 알림을 제공합니다.
 
-**[다운로드 페이지](https://felixlsh.github.io/soop-multiview/)** · **[2.3.0 릴리스](https://github.com/felixlsh/soop-multiview/releases/tag/v2.3.0)** · **[전체 변경 내역](RELEASE_NOTES.md)** · **[상세 사용법](USER_GUIDE.md)**
+**[다운로드 페이지](https://felixlsh.github.io/soop-multiview/)** · **[2.3.1 릴리스](https://github.com/felixlsh/soop-multiview/releases/tag/v2.3.1)** · **[전체 변경 내역](RELEASE_NOTES.md)** · **[상세 사용법](USER_GUIDE.md)**
+
+## 2.3.1 개선 (2026-10-05)
+
+- YouTube @HADES_offi 공개 커뮤니티 글 합쳐 보기, 사진 확대·음소거 영상 재생·받은 글 보관
+- SOOP·X·Twitter·YouTube 출처 아이콘과 색 구분
+
+- 게시글 모아보기의 모두 읽음을 필터·설정 같은 행 오른쪽에 항상 표시
+- 설정을 접은 상태와 좁은 팝업에서도 버튼 접근·간격·정렬 개선
+- 선택한 스트리머·출처 범위와 읽음 처리 유지, 읽지 않은 글이 없으면 비활성화
 
 ## 2.3.0 개선 (2026-10-05)
 
