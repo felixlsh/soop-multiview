@@ -1,4 +1,4 @@
-# SOOP Lens by felix 2.4.0
+# SOOP Lens 2.4.0
 
 2026-10-05 · Windows x64
 
