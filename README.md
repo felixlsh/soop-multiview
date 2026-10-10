@@ -1,10 +1,10 @@
-# Keroview 3.0.0
+# Keroview 3.0.1
 
 여러 SOOP 방송과 채팅을 원하는 비율로 보는 Windows 앱입니다. 최대 9개 방송, 배치 자율, 개별 영상·채팅 조절, 선택 기록과 알림을 제공합니다.
 
-**[다운로드 페이지](https://felixlsh.github.io/soop-multiview/)** · **[3.0.0 릴리스](https://github.com/felixlsh/soop-multiview/releases/tag/v3.0.0)** · **[전체 변경 내역](RELEASE_NOTES.md)** · **[상세 사용법](USER_GUIDE.md)**
+**[다운로드 페이지](https://felixlsh.github.io/soop-multiview/)** · **[3.0.1 릴리스](https://github.com/felixlsh/soop-multiview/releases/tag/v3.0.1)** · **[전체 변경 내역](RELEASE_NOTES.md)** · **[상세 사용법](USER_GUIDE.md)**
 
-## 3.0.0 개선 (2026-10-05)
+## 3.0.1 개선 (2026-10-05)
 
 - 앱 시작·실행 중 10분 주기로 새 버전 안내 (자동 설치 아님)
 - 등록한 YouTube 6개 채널 영상 합쳐 보기·새 업로드 알림·받은 영상 보관
@@ -209,6 +209,6 @@ Windows 10/11 x64용 설치형과 포터블, SHA-256 체크섬을 Releases에서
 
 이 저장소는 다운로드 페이지와 배포 파일을 제공합니다. 앱 소스 저장소가 아닙니다. SOOP 공식 제품이 아니며 공식 로그인·시청 제한을 따릅니다. 문제 제보에 비밀번호·쿠키·토큰·개인 채팅 원문을 포함하지 마세요.
 
-## 3.0.0 신규 기능
+## 3.0.1 신규 기능
 
 Keroview 새 로고와 하데스 라이브 아카이브, 음악 재생바·큐·앨범형 플레이리스트, VOD 검색·이어보기·독립 창, 제보·관리자 수정·제외 공유를 제공합니다. 기본 VOD 검색은 클립·제목·최신순입니다. 상세 동작과 검증 범위는 USER_GUIDE.md 및 RELEASE_NOTES.md를 참고하세요.
