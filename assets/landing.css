@@ -24,3 +24,18 @@
 @media(max-width:800px){.recap-feature{grid-template-columns:1fr;gap:28px;padding:26px}.recap-feature-visual{max-width:520px;margin:auto}.signature-pair{gap:28px}.signature-tool h3{font-size:24px}.donation-threshold{flex-wrap:wrap;gap:8px}}
 @media(max-width:560px){.signature-pair{grid-template-columns:1fr;gap:12px}.signature-section{padding-top:25px}.recap-feature{padding:22px}.hero-highlights{margin:18px 0;gap:7px}}
 @media(prefers-reduced-transparency:reduce){.recap-feature{background:#152432}.hero-highlights a{background:#1b3046}.donation-threshold{background:#192b3a}}
+
+/* Keroview: the generic wordmark across the page, square KERO only for the favicon. */
+.site-header .brand{gap:11px;min-height:52px;}
+.site-header .brand>.keroview-wordmark{width:114px;height:auto;}
+
+.lens-plaque.keroview-plaque{padding:18px 24px;display:flex;flex-direction:column;gap:10px;right:1%;transform:rotate(2deg);border-radius:20px;}
+.lens-plaque.keroview-plaque .keroview-wordmark{width:226px;height:auto;}
+.lens-plaque.keroview-plaque .keroview-tagline{font-size:10px;color:#b4c8dc;letter-spacing:.04em;margin:0;}
+.footer .brand{gap:12px;}.footer .brand>.keroview-wordmark{width:102px;height:auto;}
+.download-heading>.keroview-wordmark{width:116px;height:auto;margin-top:0;}
+@media(max-width:850px){.lens-plaque.keroview-plaque .keroview-wordmark{width:178px;}.lens-plaque.keroview-plaque{padding:16px 20px;}}
+@media(max-width:640px){.site-header .brand{gap:7px;}.site-header .brand>.keroview-wordmark{width:96px;height:auto;}.lens-plaque.keroview-plaque .keroview-wordmark{width:204px;}.lens-plaque.keroview-plaque{padding:16px 22px;right:1%;}.download-heading>.keroview-wordmark{width:84px;height:auto;}}
+
+/* archive-release-preview */
+.archive-release-preview{padding-top:40px;padding-bottom:48px}.archive-release-preview>.section-heading{margin-bottom:25px}.archive-release-preview figure{margin:20px 0;padding:12px;overflow:hidden;border-radius:18px}.archive-release-preview img{display:block;width:100%;height:auto;border-radius:10px}.archive-release-preview figcaption{font-size:12px;color:var(--secondary);padding:12px 8px 2px}@media(max-width:640px){.archive-release-preview figure{padding:6px;border-radius:12px}.archive-release-preview figcaption{font-size:11px}}
