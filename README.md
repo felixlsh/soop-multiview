@@ -1,10 +1,16 @@
-# Keroview 3.0.3
+# Keroview 3.1.0
 
 여러 SOOP 방송과 채팅을 원하는 비율로 보는 Windows 앱입니다. 최대 9개 방송, 배치 자율, 개별 영상·채팅 조절, 선택 기록과 알림을 제공합니다.
 
-**[다운로드 페이지](https://keroview-download.vercel.app/)** · **[3.0.3 릴리스](https://keroview-download.vercel.app/releases/v3.0.3)** · **[전체 변경 내역](RELEASE_NOTES.md)** · **[상세 사용법](USER_GUIDE.md)**
+**[다운로드 페이지](https://keroview-download.vercel.app/)** · **[3.1.0 릴리스](https://keroview-download.vercel.app/releases/v3.1.0)** · **[전체 변경 내역](RELEASE_NOTES.md)** · **[상세 사용법](USER_GUIDE.md)**
 
 > 현재는 Windows 설치형만 제공합니다. 포터블 배포는 종료되었으며, 아래 이전 변경 내역은 각 버전 출시 당시의 기록입니다.
+
+## 3.1.0 개선 (2026-10-12)
+
+- 선택형 Google 로그인으로 PC 프로그램·웹·모바일 보관함 동기화
+- 플레이리스트 이름·삭제·순서 편집, 표지 아이콘 동기화와 멤버 필터
+- 재생 멤버 색 강조, 저장 전환 모션과 프리뷰 업데이트 비교 보완
 
 ## 3.0.3 개선 (2026-10-12)
 

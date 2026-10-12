@@ -42,3 +42,10 @@
 
 /* Installer is the single supported distribution. */
 .download-choices{grid-template-columns:1fr}
+
+.archive-release-preview .archive-release-logo{width:min(100%,480px);height:auto;object-fit:contain;object-position:left center;border-radius:0;margin:0 0 24px}
+
+/* Archive web uses its own version and joins the PC change record. */
+.webapp-section{display:grid;grid-template-columns:1fr 1fr;gap:64px;padding-top:72px;padding-bottom:64px;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.webapp-section h2{font-size:clamp(30px,4vw,46px);line-height:1.25;letter-spacing:-.045em;margin:12px 0 20px}.webapp-section .actions{flex-wrap:wrap;margin-top:26px;gap:20px}.webapp-meta{font-size:13px;color:var(--muted);margin-top:15px}.webapp-details ul{padding:0;margin:0;list-style:none}.webapp-details li{padding:0 0 20px;margin:0 0 20px;border-bottom:1px solid var(--line)}.webapp-details strong{font-size:19px;font-weight:650}.webapp-details li p{margin-top:6px;color:var(--secondary);font-size:15px}.webapp-note{font-size:13px;color:var(--muted);margin:14px 0}.webapp-details>.text-link{margin-top:18px}
+@media(max-width:850px){.webapp-section{grid-template-columns:1fr;gap:32px;padding-top:48px;padding-bottom:44px}.webapp-section .actions{gap:16px}.nav-links{gap:14px}}
